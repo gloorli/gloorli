@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on optimizing arm activity tracking using IMU sensors to monitor stroke rehabilitation
+- 👀 I’m interested in robotics and control
 - ⚡ Fun fact: I can chirp like a cricket
 <!--
 **gloorli/gloorli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
